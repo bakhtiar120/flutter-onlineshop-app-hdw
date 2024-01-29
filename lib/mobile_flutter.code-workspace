@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../fic12_flutter_starter-master"
+		},
+		{
+			"path": "../../../../Web/laravel-onlineshop-backend-hdw"
+		},
+		{
+			"path": "../../flutter_onlineshop_app_hdw"
+		}
+	],
+	"settings": {}
+}
